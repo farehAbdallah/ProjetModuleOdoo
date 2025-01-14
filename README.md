@@ -6,10 +6,10 @@
 2. Redémarrer le serveur Odoo.
 
 3. Dans l'interface Odoo :  
-   - Aller dans **Paramètres > Applications**.  
-   - Cliquer sur **Mettre à jour la liste des modules**.  
+   - Aller dans **Apps**.  
+   - Cliquer sur **Update App List**.  
 
-   ![Mettre à jour la liste des modules]()
+   ![Mettre à jour la liste des modules](images/image.jpg)
 
 4. Vérifier que le module **`estate-demo-addon`** est ajouté à la liste des applications.
 
