@@ -9,7 +9,7 @@
    - Aller dans **Apps**.  
    - Cliquer sur **Update App List**.  
 
-   ![Mettre à jour la liste des modules](images/image.jpg)
+   ![Mettre à jour la liste des modules](./images/image.JPG)
 
 4. Vérifier que le module **`estate-demo-addon`** est ajouté à la liste des applications.
 
